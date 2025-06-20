@@ -1,1 +1,7 @@
-week 1 activity
+week 1 activity questions:
+
+What strategies you will use to perform a bitwise XOR operation when plaintext and key have different lengths?
+-a strategy i could use is to simply repeat the word to match the length of the key/message
+
+What were your challenges in performing the lab (from design to the implementation phases)?
+-it took me a decent amount of time to correctly convert my message/key to binary.
